@@ -1,6 +1,6 @@
 package poly.ex5;
 
-public class Dog implements InterfaceAnimal{
+public class Dog implements InterfaceAnimal {
     @Override
     public void sound() {
         System.out.println("멍멍");

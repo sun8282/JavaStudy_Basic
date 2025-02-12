@@ -1,7 +1,6 @@
 package poly.ex4;
 
 
-
 public class Caw extends AbstractAnimal {
     @Override
     public void sound() {

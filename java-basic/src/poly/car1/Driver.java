@@ -8,7 +8,7 @@ public class Driver {
         this.car = car;
     }
 
-    public void drive(){
+    public void drive() {
         System.out.println("자동차를 운전합니다.");
         car.offEngine();
         car.pressAccelerator();

@@ -1,6 +1,6 @@
 package poly.car1;
 
-public class NewCar implements Car{
+public class NewCar implements Car {
     @Override
     public void startEngine() {
         System.out.println("NewCar.startEngine");
